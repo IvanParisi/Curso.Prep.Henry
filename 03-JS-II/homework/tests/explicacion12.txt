@@ -1,0 +1,4 @@
+for: el for repite una accion una cantidades que vos le digas, hasta que encuentre lo que buscas o llegue al limite que vos le dijiste.
+Operadores logicos: El & nos sirve para juntar 2 preguntas/oraciones como Compras pan y Leche o en pregunta Compraste el pan Y la leche? 
+el || nos sirven para dar opciones al momento de preguntar o pedir algo, como compra pan o leche/pudiste comprar el pan o la leche?
+el ! no usamos para saber lo contrario a lo que evaluamos, sabemos que 1+1 es 2, entonces lo que hace el ! es decirnos que es falso, o al revez.

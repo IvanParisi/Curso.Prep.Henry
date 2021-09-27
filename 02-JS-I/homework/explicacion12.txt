@@ -1,0 +1,8 @@
+Variables: Son hojas de papel en blanco que le escribis lo que vos quieras, pueden ser numeros, letras, frases, palabras etc.. esto que escribimos lo tenemos guardado en la hoja 
+para poder consultarlo o usarlo mas tarde. 
+Strings: Es cuando a una hoja de papel en blanco solo le escribes una palabra o una letra, no se permiten numeros.
+Funciones: Las funciones son como ayudas que podes crearte, como cuando te enseñan a contar con los dedos, eso seria una funcion de suma, en programacion podes hacer lo mismo y 
+mucho mas, estas funciones reciben una entrada (por ej: los numeros que quere sumar) y te devuelven el resultado (la suma)
+If: Los if nos ayudan a preguntar si una hoja en blanco tiene escrita un valor que nos intersa y hacer algo en base a eso (si la hoja tiene el numero 1, haz esto ...)
+Booleanos: los  booleanos son hojas en blanco que se limitan a verdadero o falso, solo pueden tener eso 1 de esos 2 valores.
+
