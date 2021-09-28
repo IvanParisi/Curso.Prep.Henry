@@ -1,0 +1,2 @@
+Arrays: Como explique, las hojas de papel son variables, los arrays son una carpeta con hojas de papel, cada una con algo escrito en ella. Con esta carpeta podemos hacer funciones
+para buscar algo determinado, consultar si necesitamos algo de esta carpeta etc..
