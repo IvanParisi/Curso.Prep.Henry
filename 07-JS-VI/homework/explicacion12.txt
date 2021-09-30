@@ -1,0 +1,1 @@
+Callbacks: Hay funciones que para funcionar ejecutan otra funcion llamada callbcak al al mismo tiempo al que ellas se estan ejecutando.
