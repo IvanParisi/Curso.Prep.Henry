@@ -1,0 +1,6 @@
+Objetos: Son como objetos de la realidad, tienen sus propiedades y funciones/metodos
+Propiedades: Son la caracterizticas de los objetos, un juguete(objeto) es rojo (propiedad)
+Metodos: A las funcionalidades se le llaman metodos, que accion realiza un objeto, el juguete rojo si le apretas un boton se mueve 20cm (metodo)
+Bucle for…in: Un bucle es algo que se repite eternamente hasta que vos decidas pararlo, como por ej apretar el boton del juguete(objeto) eternamennte, este bucle nos sirve
+para poder detectar otras caracterizticas del objeto o propiedades del mismo.
+Notación de puntos vs notación de corchetes: En programacion podemos acceder a los metodos y propiedades mediante un punto y el nombre de esta, o encerando el nombre entre corchetes.

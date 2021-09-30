@@ -1,0 +1,3 @@
+prototype: Es una caracteriztica que le podemos agregar a los metodos que explique antes, esto hace que si tenemos varios objetos que comparten una funcionalida, las junta en 1 sola
+que puede usar todos los objetos
+Constructores: Los constructores lo que hacen es darle identidad a un objeto, estan limitado a un tipo de objeto en especifico pero vos podes darle las propiedades que quieras.
